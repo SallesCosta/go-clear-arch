@@ -2,8 +2,6 @@
 
 <img src="./icons/go.svg" alt="go icon" width="60" height="60"> <img src="./icons/sw.svg" alt="swaggo icon" width="60" height="60"> <img src="./icons/gql.svg" alt="graphql icon" width="60" height="60"> <img src="./icons/grpc.svg" alt="grpc icon" width="60" height="60"> <img src="./icons/rabbitmq.svg" alt="rabbitmq icon" width="60" height="60"> <img src="./icons/mysql.svg" alt="mysql icon" width="60" height="60"> <img src="./icons/docker.svg" alt="docker icon" width="60" height="60">
 
-Sure, here's an addition to the README that explains how clean architecture was applied in this project:
-
 ## Clean Architecture
 
 This project follows the principles of Clean Architecture, as proposed by Robert C. Martin. The main goal of this architecture is to make the system easy to understand, develop, test, and maintain.
